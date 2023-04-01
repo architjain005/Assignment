@@ -1,0 +1,127 @@
+#upper{
+    background-color: #FFCD9E;
+    height: 70vh;
+}
+
+#lower{
+    background-color: black;
+    height: 30vh;
+}
+h1{
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    width: 562px;
+    height: 108px;
+    border: #FFCD9E;
+    left: 136px;
+    top: 84px;
+   
+}
+p{
+    position: absolute;
+    top: 200px;
+    left: 136px;
+    width: 430px;
+    height: 81px;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+#abc{
+    position: absolute;
+    top: 300px;
+    left: 136px;
+    
+    font-weight: 800;
+
+}
+#efg{
+    position: absolute;
+    top: 360px;
+    left: 136px;
+    width: 344px;
+    height: 64px;
+   
+    
+    
+}
+#abd{
+    position: absolute;
+    top: 370px;
+    left: 136px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+#aef{
+    position: absolute;
+    left: 850px;
+    top: 85px;
+}
+#abe{
+    position: absolute;
+    left: 170px;
+    top: 550px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#abf{
+    position: absolute;
+    left: 1110px;
+    top: 550px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#abb{
+    position: absolute;
+    left: 1000px;
+    top: 580px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+
+}
+#aaa{
+    position: absolute;
+    top: 630px;
+    left: 1110px;
+    width: 30px;
+    height: 28px;
+    color: #FFCD9E;
+
+}
+#bbb{
+    position: absolute;
+    top: 630px;
+    left: 1135px;
+    width: 30px;
+    height: 28px;
+    color: #FFCD9E;
+}
+#ccc{
+    position: absolute;
+    left: 1060px;
+    top: 680px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+
+}
